@@ -37,3 +37,13 @@ margin: 0 auto;
     font-size: 20 px;
 
 }
+
+#footer
+{
+	background: #777;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+}
+
+
